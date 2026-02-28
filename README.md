@@ -29,14 +29,6 @@ It models galaxies with thousands of stars, realistic gravity, collisions, merge
 
 ---
 
-
-## Controls
-
-
-ActionKeyPause / ResumeSPACEReset SceneRSpawn GalaxyGToggle TrailsTDecrease Speed[Increase Speed]Zoom Out-Zoom In=Pan CameraW / A / S / D or Arrow KeysScroll ZoomMouse Wheel
----
-
-
 ## Installation
 
 
@@ -82,7 +74,6 @@ Use the controls above to explore and interact with galaxies in real-time.
 Simulation behavior can be customized via the `SimConfig` class:
 
 
-SettingDescription`width`, `height`Window size`fps`Frame rate`g`Gravitational constant`dt`Simulation timestep`max_stars`Maximum number of stars`default_star_count`Default stars per galaxy`trail_alpha`Star trail opacity`collision_distance_factor`Collision sensitivity`core_accretion_scale`Core accretion radius multiplier`min_accretion_radius`Minimum radius for core accretion
 ---
 
 
